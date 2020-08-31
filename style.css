@@ -1,0 +1,20 @@
+ion-grid {
+  margin-top: 10%;
+}
+
+ion-item {
+    margin-bottom: 5%;
+}
+
+ion-icon {
+  margin-right: 5px;
+}
+
+ion-label {
+  margin-top: -2px !important;
+}
+
+ion-button {
+    --border-radius: 5px;
+    font-weight: bolder;
+}
